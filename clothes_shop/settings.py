@@ -84,7 +84,7 @@ AUTHENTICATION_BACKENDS = (
 
 )
 
-site_id = 1
+SITE_ID = 1
 
 WSGI_APPLICATION = 'clothes_shop.wsgi.application'
 
